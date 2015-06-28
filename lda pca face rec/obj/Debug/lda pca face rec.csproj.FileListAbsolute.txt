@@ -1,0 +1,26 @@
+E:\Work\Work apps\lda pca face rec\lda pca face rec\obj\Debug\MainWindow.baml
+E:\Work\Work apps\lda pca face rec\lda pca face rec\obj\Debug\MainWindow.g.cs
+E:\Work\Work apps\lda pca face rec\lda pca face rec\obj\Debug\App.g.cs
+E:\Work\Work apps\lda pca face rec\lda pca face rec\obj\Debug\lda pca face rec_MarkupCompile.cache
+E:\Work\Work apps\lda pca face rec\lda pca face rec\obj\Debug\lda pca face rec.g.resources
+E:\Work\Work apps\lda pca face rec\lda pca face rec\obj\Debug\lda_pca_face_rec.Properties.Resources.resources
+E:\Work\Work apps\lda pca face rec\lda pca face rec\obj\Debug\lda pca face rec.csproj.GenerateResource.Cache
+E:\Work\Work apps\lda pca face rec\lda pca face rec\bin\Debug\lda pca face rec.exe.config
+E:\Work\Work apps\lda pca face rec\lda pca face rec\bin\Debug\lda pca face rec.exe
+E:\Work\Work apps\lda pca face rec\lda pca face rec\bin\Debug\lda pca face rec.pdb
+E:\Work\Work apps\lda pca face rec\lda pca face rec\bin\Debug\Accord.dll
+E:\Work\Work apps\lda pca face rec\lda pca face rec\bin\Debug\Accord.Math.dll
+E:\Work\Work apps\lda pca face rec\lda pca face rec\bin\Debug\Accord.Statistics.dll
+E:\Work\Work apps\lda pca face rec\lda pca face rec\bin\Debug\AForge.dll
+E:\Work\Work apps\lda pca face rec\lda pca face rec\bin\Debug\AForge.Math.dll
+E:\Work\Work apps\lda pca face rec\lda pca face rec\bin\Debug\WriteableBitmapEx.Wpf.dll
+E:\Work\Work apps\lda pca face rec\lda pca face rec\bin\Debug\Accord.pdb
+E:\Work\Work apps\lda pca face rec\lda pca face rec\bin\Debug\Accord.Math.pdb
+E:\Work\Work apps\lda pca face rec\lda pca face rec\bin\Debug\Accord.Statistics.pdb
+E:\Work\Work apps\lda pca face rec\lda pca face rec\bin\Debug\AForge.xml
+E:\Work\Work apps\lda pca face rec\lda pca face rec\bin\Debug\AForge.Math.xml
+E:\Work\Work apps\lda pca face rec\lda pca face rec\bin\Debug\WriteableBitmapEx.Wpf.pdb
+E:\Work\Work apps\lda pca face rec\lda pca face rec\bin\Debug\WriteableBitmapEx.Wpf.xml
+E:\Work\Work apps\lda pca face rec\lda pca face rec\obj\Debug\lda pca face rec.exe
+E:\Work\Work apps\lda pca face rec\lda pca face rec\obj\Debug\lda pca face rec.pdb
+E:\Work\Work apps\lda pca face rec\lda pca face rec\obj\Debug\lda pca face rec.csprojResolveAssemblyReference.cache
